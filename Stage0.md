@@ -6,7 +6,7 @@ Authors: Ganaa Khaled Sharawy Abdelkarim (@Ganaa)    
 
 Github Repo: <https://github.com/Gannakhaled/HackBio-Cancer-Internship>
 
-When Next Generation Sequencing came out, it drove therapeutics and medical diagnostics into the next level. This is because it allows sequencing of the whole human genome in a short period of time, allowing us to detect the number of copies of chromosomes from a single cell. This contributes to diagnosis of patient’s as well as cancer research. However, a specific application of NGS plays a huge role in cancer research and diagnostics which is RNA-Seq. 
+When Next Generation Sequencing came out, it drove therapeutics and medical diagnostics into the next level. This is because it allows sequencing of the whole human genome in a short period of time, allowing us to detect the number of copies of chromosomes from a single cell. This contributes to the diagnosis of patients as well as cancer research. However, a specific application of NGS plays a huge role in cancer research and diagnostics which is RNA-Seq. 
 
 
 ## **Why RNA Sequencing?**
